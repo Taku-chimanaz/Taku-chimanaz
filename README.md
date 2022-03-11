@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Takudzwa L Chimanikire</h1>
-<h3 align="center">An aspiring developer from Zimbabwe eager to learn new stuff in the field</h3>
+<h3 align="center">I Am Into Web Dev and Mobile Dev</h3>
 
 - 🔭 I’m currently working on [Vlog Quest](https://github.com/Taku-chimanaz/vlog-quest)
+
+- Founder Of @Code-Upgrade-Tech
 
 - 🌱 I’m currently learning **Xamarin**
 
