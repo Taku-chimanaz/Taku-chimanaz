@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Takudzwa L Chimanikire</h1>
-<h3 align="center">I Am Into Web Dev and Mobile Dev</h3>
+<h3 align="center">I Am Into Web Developer</h3>
 
-- 🔭 I’m currently working on [Vlog Quest](https://github.com/Taku-chimanaz/vlog-quest)
+- 🔭 I’m currently working on [Mabiko backend](https://github.com/Taku-chimanaz/mabiko-backend)
 
 - Founder Of @Code-Upgrade-Tech
 
-- 🌱 I’m currently learning **Xamarin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Taku-chimanaz](https://github.com/Taku-chimanaz)
+- 👨‍💻 All of my projects are available at [Code Upgrade Technologies](https://codeupdgradetech.co.zw/projects)
 
 - 💬 Ask me about **React**
-
-- 📫 How to reach me **tkchimanaz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
