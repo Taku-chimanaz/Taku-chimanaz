@@ -6,7 +6,7 @@
 - Founder Of @Code-Upgrade-Tech
 
 
-- 👨‍💻 All of my projects are available at [Code Upgrade Technologies](https://codeupdgradetech.co.zw/projects)
+- 👨‍💻 All of my projects are available at [Code Upgrade Technologies](https://codeupgradetech.co.zw/projects)
 
 - 💬 Ask me about **React**
 
