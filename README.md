@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Takudzwa L Chimanikire</h1>
 <h3 align="center">I am a web developer</h3>
 
-- 🔭 I’m currently working on [Mabiko backend](https://github.com/Taku-chimanaz/mabiko-backend)
+- 🔭 I’m currently learning mobile development
 
 - Founder Of @Code-Upgrade-Tech
 
