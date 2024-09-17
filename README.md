@@ -3,11 +3,6 @@
 
 - 🔭 I’m currently learning mobile development
 
-- Founder Of @Code-Upgrade-Tech
-
-
-- 👨‍💻 All of my projects are available at [Code Upgrade Technologies](https://codeupgradetech.co.zw/projects)
-
 - 💬 Ask me about **React**
 
 <h3 align="left">Connect with me:</h3>
